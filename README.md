@@ -13,3 +13,10 @@ If you tend to search google for some basic things such as some APIs calls or co
 - enable developer mode on top right
 - click load unpacked
 - select the folder of the cloned repo
+
+# Usage
+
+- search something on google
+- a textbox will appear on top of results
+- put any note you want in the text box
+- next time you do the same search (using exactly the same query) your notes will appear in the tex box
