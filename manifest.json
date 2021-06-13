@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Result index",
+    "version": "0.0.1",
+    "permissions": ["storage"],
+    "content_scripts": [
+        {
+            "matches": ["https://www.google.com/search*"],
+            "js": ["index.js"],
+            "css": ["index.css"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "matches": [ "https://www.google.com/*" ],
+            "resources": [ "index.html" ]
+        }    
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}

@@ -1,0 +1,12 @@
+#resultindex_title {
+    color: #1a0dab;
+}
+
+#resultindex_textarea {
+    border: none;
+    color: #4d5156;
+    font-size: 14px;
+    font-family:  arial, sans-serif;
+    margin-bottom: 30px;
+    background-color: #d3d3d3;
+}
