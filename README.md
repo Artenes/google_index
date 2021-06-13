@@ -4,7 +4,7 @@ Chrome plugin to attach an answer on top of google results for a specific querie
 
 If you tend to search google for some basic things such as some APIs calls or commands for CLIs, you can attach the answer in google reault page with this addon for chrome
 
-[image.jpg](!image.jpg)
+![image.jpg](image.jpg)
 
 # Using
 
