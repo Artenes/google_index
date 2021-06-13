@@ -6,7 +6,7 @@ If you tend to search google for some basic things such as some APIs calls or co
 
 ![image.jpg](image.jpg)
 
-# Using
+# Installing
 
 - clone repo
 - on chrome open chrome://extensions
